@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>👋 May peace be upon who are in straigt path, I'm Farnaz</h1>
+  <h1>👋 May peace be upon you, I'm Farnaz</h1>
   <h3>🧮 Computer Science Student | 🔬 Research Enthusiast | 🚀 Builder</h3>
   
   <p>
@@ -22,27 +22,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farnaz-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-### 🌟 What I'm Currently Working On
-- Implementing research papers from scratch (Transformers, Diffusion Models, Optimization algorithms)
-- Building reproducible ML experiments
-- Exploring efficient AI systems (especially important for resource-constrained environments)
-- Learning new concepts → immediately implementing them as open projects
-
-### 🔬 Research & Implementation Focus
-I believe **the best way to learn is to implement**.  
-Most of my repositories are research paper reproductions or experimental implementations where I:
-- Read the paper
-- Understand the math & methodology
-- Code it from scratch
-- Compare results & document challenges
-
-### 🛠️ Tech Stack
-**Languages**: Python • C++ • JavaScript • SQL  
-**ML/DL**: PyTorch • TensorFlow • Scikit-learn • Hugging Face  
-**Tools**: Git • Weights & Biases • LaTeX   
-**Currently Learning**: Advanced Optimization, Reinforcement Learning, PINN
-
 
 
 <!--
