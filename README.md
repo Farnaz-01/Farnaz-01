@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farnaz-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farnaz-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+<br><br>
 <!-- Dynamic Contribution Graph (looks exactly like the one in your photo) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farnaz-01&theme=tokyonight&hide_border=true" alt="Farnaz Contribution Graph"/>
 
