@@ -13,7 +13,13 @@
  
   <br><br>
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farnaz-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true%22 alt="Farnaz GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farnaz-01&layout=compact&theme=tokyonight&hide_border=true%22 alt="Top Languages"/>
+<br>
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farnaz-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+ 
 
 ### 📈 GitHub Journey So Far
 
