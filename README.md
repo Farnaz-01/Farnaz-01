@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farnaz-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<!-- Beautiful Contribution Graph -->
+<!-- Beautiful filled contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farnaz-01&theme=tokyonight&hide_border=true&area=true" alt="Farnaz Contribution Graph"/>
 
 ---
