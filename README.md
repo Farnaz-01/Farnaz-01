@@ -13,35 +13,7 @@
  
   <br><br>
 
-### ✨ About Me
-- Currently pursuing Bachelor's in Computer Science  
-- Passionate about **Academic Research**, **Software Development**, and **Reproducible Machine Learning**  
-- I love reading research papers → understanding the math → implementing everything from scratch  
-- Strongly believe: **The best way to learn is to implement**  
-- Currently exploring efficient AI systems and optimization techniques (especially important in resource-constrained environments)
 
-### 🛠️ Skills
-
-**Programming Languages**  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
-![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-
-**Machine Learning & Research**  
-![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) 
-![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) 
-![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-
-**Tools & Platforms**  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) 
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) 
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) 
-![LaTeX](https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg) 
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FF5C00?logo=weightsandbiases&logoColor=white)
-
----
 
 ### 📈 GitHub Journey So Far
 
