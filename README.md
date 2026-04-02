@@ -1,21 +1,17 @@
 <div align="center">
-  <h1>👋 Hello and warm greetings! Glad to have you here 👋</h1>
-  
-  <h2>I'm Farnaz</h2>
-  
-  <p>
-    <strong>Computer Science Student | Research Enthusiast | Turning Ideas into Code</strong><br>
-    Passionate about research, continuous learning, and implementing what I learn.
-  </p>
-
-  <img src="https://github.com/Farnaz-01/Farnaz-01/blob/main/illustration.png" alt="Farnaz at work" width="600" />
-  
-  <p>
-    <em>Feel free to explore my repositories, connect with me, or drop a ⭐ if you find something interesting!</em>
-  </p>
-</div>
-
----
+<h1>👋 May peace be upon you, I'm Farnaz</h1>
+<h3>🧮 Computer Science Student | 🔬 Research Enthusiast | 🚀 Builder</h3>
+<p>
+<strong>Passionate about research, continuous learning, and implementing cutting-edge concepts.</strong><br>
+    Currently exploring Machine Learning, Algorithms, and Reproducible Research.
+</p>
+ 
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=flat-square" alt="CS Student">
+<img src="https://img.shields.io/badge/Research-Passionate-red?style=flat-square" alt="Research">
+<img src="https://img.shields.io/badge/Learning%20%26%20Implementing-Obsessed-green?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-🇧🇩-brightgreen?style=flat-square" alt="Location">
+ 
+  <br><br>
 
 ### ✨ About Me
 - Currently pursuing Bachelor's in Computer Science  
