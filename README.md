@@ -107,26 +107,7 @@
 ---
 
 <!-- ─────────── CURRENTLY ─────────── -->
-## 🌱 &nbsp;What I'm Currently Up To
 
-```yaml
-# — Farnaz's current state — April 2026 —
-
-implementing:
-  - '"Attention Is All You Need" (Vaswani et al., 2017) — from scratch in PyTorch'
-  - '"DDPM: Denoising Diffusion Probabilistic Models" (Ho et al., 2020)'
-
-learning:
-  - "Reinforcement Learning: Sutton & Barto (chapter by chapter)"
-
-building:
-  - "Clean, reproducible ML experiment framework for paper implementations"
-  - "Documenting implementation challenges that papers don't tell you about"
-
-thinking_about:
-  - "How do we make state-of-the-art AI accessible in resource-constrained settings?"
-  - "What does responsible AI research look like from the Global South?"
-```
 
 <br/>
 
@@ -136,12 +117,6 @@ thinking_about:
 ## 🌙 &nbsp;Philosophy
 
 <div align="center">
-
-| | |
-|:---:|:---:|
-| 📚 **Learn with depth**, not surface | 🔨 **Build with purpose**, not just completion |
-| 🌿 **Grow with discipline**, not motivation | 🤲 **Share openly**, always |
-| 🔍 **Understand the math** before the magic | ❤️ **Keep people** at the center of every build |
 
 <br/>
 
