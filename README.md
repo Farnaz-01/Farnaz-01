@@ -24,29 +24,13 @@
 ## 🧭 &nbsp;About Me
 
 ```
-╭────────────────────────────────────────────────────────╮
-│  🎓  CS Student  @  American International University  │
-│      — Bangladesh  (AIUB),  Dhaka  🇧🇩               │
-│                                                        │
-│  🔬  Implementing research papers from scratch        │
-│  🧠  Transformers · Diffusion Models · Optimization   │
-│  🌱  Currently: Reinforcement Learning + Efficient AI │
-│  🤝  Open to research collaborations & discussions    │
-│  💡  "The best way to learn is to implement."         │
-╰────────────────────────────────────────────────────────╯
+
 ```
 
-I'm **Farnaz** — a Computer Science student at **American International University — Bangladesh (AIUB)**, on a mission to bridge the gap between *reading* research and *building* research.
 
-Most of my repositories are **paper reproductions and experimental implementations**: I pick a foundational paper, decode the mathematics, code it from scratch, then document every insight and challenge along the way. I believe deep understanding is built not through tutorials, but through honest struggle with real ideas.
-
-I care deeply about **reproducibility**, **accessible AI** (especially for resource-constrained environments like ours in Bangladesh), and the conviction that **good code, like good research, should be open and shared freely**.
-
-- 🔭 &nbsp;**Focus:** Transformers · Diffusion Models · Optimization · Efficient AI
-- 💻 &nbsp;**Currently building:** Reproducible ML experiments & paper implementations
-- 📖 &nbsp;**Currently learning:** Advanced Optimization · Reinforcement Learning
+- 🔭 &nbsp;**Focus:** Transformers · Diffusion Models · Optimization · Bioinformatics
 - 🌍 &nbsp;**Belief:** Technology built with empathy creates the most lasting impact
-- 🤲 &nbsp;**Open to:** Collaborations, paper study groups, mentorship, good conversations
+- 🤲 &nbsp;**Open to:** Collaborations, paper study groups, mentorship
 
 <br/>
 
@@ -56,26 +40,7 @@ I care deeply about **reproducibility**, **accessible AI** (especially for resou
 ## 🔬 &nbsp;Research & Implementation Focus
 
 > *I believe the best way to learn is to implement.*
-> Most of my repositories are research paper reproductions or experimental implementations.
 
-```
-  📄  Read the paper          →   Understand the motivation and prior work
-  📐  Decode the math         →   Work through derivations by hand
-  💻  Build from scratch      →   No shortcuts — clean, documented code
-  📊  Compare & document      →   Reproduce results, note deviations, share findings
-```
-
-**Current Implementation Areas:**
-
-<div align="center">
-
-| &nbsp;&nbsp;Domain&nbsp;&nbsp; | &nbsp;&nbsp;Papers / Topics&nbsp;&nbsp; | &nbsp;&nbsp;Status&nbsp;&nbsp; |
-|:---:|:---|:---:|
-| 🤖 **Deep Learning** | Transformers, Attention Mechanisms, Vision Transformers | 🟢 Active |
-| 🌊 **Generative AI** | Diffusion Models, Score-based Models, VAEs | 🟡 Exploring |
-| ⚙️ **Optimization** | Adam variants, Second-order methods, Convergence theory | 🟢 Active |
-| 🎮 **Reinforcement Learning** | Policy Gradients, Model-based RL | 🔵 Learning |
-| 🌐 **Efficient AI** | Pruning, Quantization, Edge deployment | 🟡 Exploring |
 
 </div>
 
@@ -106,9 +71,6 @@ I care deeply about **reproducibility**, **accessible AI** (especially for resou
 **Research & Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -156,7 +118,6 @@ implementing:
 
 learning:
   - "Reinforcement Learning: Sutton & Barto (chapter by chapter)"
-  - "Efficient AI: model quantization & pruning for edge deployment"
 
 building:
   - "Clean, reproducible ML experiment framework for paper implementations"
@@ -199,7 +160,7 @@ thinking_about:
 <div align="center">
 
 *I'm always happy to connect with fellow researchers, students, and curious minds.*
-*Whether it's a paper you're stuck on, a project idea, or just a thoughtful conversation — reach out. Truly.*
+
 
 <br/>
 
