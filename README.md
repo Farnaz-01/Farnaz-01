@@ -4,18 +4,14 @@
      ══════════════════════════════════════════════════════ -->
 
 <!-- ─────────── HEADER ─────────── -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F7,50:D5E3F0,100:C0D4E8&height=210&section=header&text=As-salamu%20Alaykum%2C%20I%27m%20Farnaz&fontSize=42&fontColor=1E2D4A&fontAlignY=44&desc=CS%20Student%20%C2%B7%20ML%20Researcher%20%C2%B7%20Paper%20Implementer%20%C2%B7%20Builder&descSize=15&descAlignY=65&descColor=4A6B8A&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B67F,50:14B8A6,100:2DD4BF&height=210&section=header&text=As-salamu%20Alaykum%2C%20I%27m%20Farnaz&fontSize=42&fontColor=1E2D4A&fontAlignY=44&desc=CS%20Student%20%C2%B7%20ML%20Researcher%20%C2%B7%20Paper%20Implementer%20%C2%B7%20Builder&descSize=15&descAlignY=65&descColor=0F766E&animation=fadeIn"/>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=4000&pause=1500&color=1E2D4A&center=true&vCenter=true&width=800&lines=%22Knowledge+is+not+to+be+learned+%E2%80%94+it+is+to+be+understood%2C+implemented%2C+and+used.%22;I+read+the+paper.+I+understand+the+math.+I+build+it+from+scratch.;Driven+by+curiosity.+Grounded+by+discipline.+Guided+by+purpose.;Always+implementing.+Always+learning.+Always+sharing+%F0%9F%8C%BF)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=4000&pause=1500&color=06B67F&center=true&vCenter=true&width=800&lines=%22Knowledge+is+not+to+be+learned+%E2%80%94+it+is+to+be+understood%2C+implemented%2C+and+used.%22;I+read+the+paper.+I+understand+the+math.+I+build+it+from+scratch.;Driven+by+curiosity.+Grounded+by+discipline.+Guided+by+purpose.;Always+implementing.+Always+learning.+Always+sharing+%F0%9F%8C%BF)](https://git.io/typing-svg)
 </div>
-
 <br/>
 
 ---
