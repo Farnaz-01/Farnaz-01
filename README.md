@@ -16,7 +16,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 📈 GitHub Journey So Far
 
 
@@ -25,9 +25,7 @@
 
 <!-- Beautiful filled contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farnaz-01&theme=tokyonight&hide_border=true&area=true" alt="Farnaz Contribution Graph"/>
-
----
-
+</div>
 ---
 
 **Dhaka, Bangladesh 🇧🇩 • Last updated: April 2026**
