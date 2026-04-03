@@ -36,17 +36,8 @@
 
 ---
 
-<!-- ─────────── RESEARCH FOCUS ─────────── -->
-## 🔬 &nbsp;Research & Implementation Focus
-
-> *I believe the best way to learn is to implement.*
 
 
-</div>
-
-<br/>
-
----
 
 <!-- ─────────── TECH STACK ─────────── -->
 ## 🛠️ &nbsp;Tech Stack
