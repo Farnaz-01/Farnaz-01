@@ -16,10 +16,10 @@
 </div>
 
 ---
-<div align="center">
+
 ### 📈 GitHub Journey So Far
 
-
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farnaz-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
