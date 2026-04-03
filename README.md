@@ -28,12 +28,6 @@
 
 ---
 
-### 🌟 What I'm Currently Working On
-- Implementing research papers from scratch (Transformers, Diffusion Models, Optimization algorithms)
-- Building fully reproducible ML experiments
-- Creating efficient AI systems
-- Learning new concepts → immediately turning them into open projects
-
 ---
 
 **Dhaka, Bangladesh 🇧🇩 • Last updated: April 2026**
